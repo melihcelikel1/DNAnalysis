@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Due to GitHub's storage limits, please download the pre-trained models from these external links and place them in the `models/` folder:
 
-- [Download Models (Google Drive)](https://drive.google.com/linkhere)
+- [Download Models (Google Drive)](https://drive.google.com/drive/folders/1NWHGTvO8Uc2U252CwyE3KLTMU3om600d?usp=sharing)
 
 ### 2. Analyze using the trained model:
 ```bash
