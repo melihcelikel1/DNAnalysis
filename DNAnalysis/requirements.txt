@@ -1,0 +1,7 @@
+PyQt5
+pandas
+numpy
+scikit-learn
+matplotlib
+xgboost
+joblib
