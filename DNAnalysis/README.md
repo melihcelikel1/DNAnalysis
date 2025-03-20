@@ -14,6 +14,12 @@ DNAnalysis is a Python-based project developed for analyzing DNA variants. It pr
 pip install -r requirements.txt
 ```
 
+## 📥 Pre-trained Models (External Download)
+
+Due to GitHub's storage limits, please download the pre-trained models from these external links and place them in the `models/` folder:
+
+- [Download Models (Google Drive)](https://drive.google.com/linkhere)
+
 ### 2. Analyze using the trained model:
 ```bash
 python vcf_analyse/vcf_analyse.py
